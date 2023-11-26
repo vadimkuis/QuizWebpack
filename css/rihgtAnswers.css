@@ -1,0 +1,25 @@
+.right-title {
+    margin-top: 20px;
+    color: #DCDCF3;
+    font-family: "Museo Sans Cyrl", sans-serif;
+    font-size: 20px;
+    line-height: normal;
+}
+
+.right-img {
+    padding: 0 15px 0 15px;
+}
+
+.right-title span {
+    color: #6933DC;
+}
+.title{
+    margin-top: 60px;
+    color: #6933DC;
+    font-family: "Museo Sans Cyrl", sans-serif;
+    font-size: 54px;
+    line-height: normal;
+}
+.title span{
+    color: #333333;
+}
